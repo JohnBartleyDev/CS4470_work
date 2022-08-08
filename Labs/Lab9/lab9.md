@@ -1,5 +1,5 @@
 ﻿# checkpoint 0
-![](images/lab9-1.png"checkpoint0")
+![](images/lab9-1.png "checkpoint0")
 
 # checkpoint 1
 
