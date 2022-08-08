@@ -2,14 +2,18 @@
 ![](images/unnamed.png"checkpoint0")
 
 # checkpoint 1
+
 ![](images/lab9-2.png "checkpoint1")
+
 # checkpoint 2
-creation of db and rocketchat containers using mongo and rocketchat images,
-and listing of all running containers as well as all images
+#### creation of db and rocketchat containers using mongo and rocketchat images,
+#### and listing of all running containers as well as all images
+
 ![](images/lab9-3.png "checkpoint2-1") 
 
 # checkpoint 3
 #### running hello py on localhost server
+
 ![](images/lab9-4.png "checkpoint3") 
 
 ![](images/lab9-13.png "checkpoint3-2")
